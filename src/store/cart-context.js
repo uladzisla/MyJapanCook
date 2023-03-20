@@ -6,5 +6,3 @@ const CartContext = React.createContext({
   removeItem: (id) => {},
 });
 export default CartContext;
-
-//124 урок 02:36
